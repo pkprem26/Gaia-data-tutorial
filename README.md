@@ -1,0 +1,1 @@
+This repository contains Jupyter notebooks demonstrating how to retrieve and process data from the Gaia space observatory. The notebooks provide examples and tutorials for accessing Gaia archive data, preprocessing, cleaning, and analyzing Gaia data for various astrophysical applications.
